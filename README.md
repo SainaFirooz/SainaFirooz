@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **how to work with Mongodb**
 
-- 📫 How to reach me **send me a message on linkedin**
+- 📫 How to reach me: **send me a message on linkedin**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
