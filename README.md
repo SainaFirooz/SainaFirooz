@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saina</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on **different projects for my classes at Nackademin.**
+- 🔭 I’m currently working on **different projects for my fullstack classes at Nackademin.**
 
-- 🌱 I’m currently learning **how to work with Mongodb**
+- 🌱 I’m currently learning **how to work with Mongodb and Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
