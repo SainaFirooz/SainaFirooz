@@ -16,3 +16,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sainafirooz&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="sainafirooz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainafirooz&theme=highcontrast" alt="sainafirooz" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/SainaFirooz/github-profile-trophy)
