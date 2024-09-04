@@ -7,7 +7,7 @@ Fullstack developer
 I've been coding for the past 2 years and currently studying at Nackademin to become a fullstack developer
 
 * 🌍  I'm based in Stockholm
-* 🧠  I'm currently learning Node and Express. 
+* 🧠  I'm currently learning storyblok and NextJS. 
 
 ### Skills
 
