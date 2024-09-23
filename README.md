@@ -7,6 +7,7 @@ Fullstack developer
 I'm currently studying at Nackademin to become a fullstack developer.
 
 * 🌍  I'm based in Stockholm
+* 🖥️  See my portfolio at [✖️](http://sainafirooz.vercel.app/)
 * 🧠  I'm learning Typescript
 
 ### Skills
