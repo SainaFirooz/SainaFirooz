@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-I'm studying at Nackademin to become a fullstack developer and currently doing my internship at Knightec Group.
 
 * 🌍  I'm based in Stockholm
 * 🖥️  See my portfolio at [✖️](http://sainafirooz.vercel.app/)
